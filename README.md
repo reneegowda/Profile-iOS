@@ -1,3 +1,2 @@
-# A2: Profile
-
-You must have Swift 5, iOS 13.0+, and Xcode 12.0+ to run this app.
+# Profile-iOS
+This repository focuses on building the UI for a profile page in a Swift-based app. 
