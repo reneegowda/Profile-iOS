@@ -10,3 +10,5 @@ Smooth Transitions: Utilizing native iOS animation tools to provide smooth trans
 Data Storage: The app is designed to easily connect to a back-end for persistent data storage, such as user profiles, preferences, and settings.
 
 Responsive Design: Optimized for various screen sizes, ensuring a smooth experience across different devices, including iPhones and iPads.
+
+Figma: https://www.figma.com/design/AFiubGWlsHh2FQdYZtvb6B/Screenshot-2025-01-09-at-5.44.27%E2%80%AFPM?t=UUjTGKX75H7X4hXS-0
